@@ -66,5 +66,5 @@ Actualmente divido mi tiempo entre el desarrollo de software independiente, el e
 ### 📬 Conectemos
 
 * 📍 Mendoza, Argentina
-* 💼 LinkedIn: [linkedin.com/in/facundouria](https://linkedin.com) *(Reemplazá con tu link real)*
+* 💼 LinkedIn: [linkedin.com/in/facundouria](https://linkedin.com) 
 * ✉️ Email: [Contacto directo](mailto:facuuria@gmail.com)
